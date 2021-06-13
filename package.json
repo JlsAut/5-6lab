@@ -1,39 +1,39 @@
 {
-  "name": "react-app",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.11.10",
-    "@testing-library/react": "^11.2.6",
-    "@testing-library/user-event": "^12.8.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-loader-spinner": "^4.0.0",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.1"
+   "имя "  : "реагировать-приложение",
+   "версия":  "0.1.0",
+   "частный ": правда,
+   "зависимостей ":
+     «@testing-библиотека/jest-dom«  : »5.11.10«,
+     "@testing-библиотека/реакция":  "11.2.6",
+     "@testing-библиотеки/пользователя-события"  : "12.8.3",
+     "реагировать"  : "17.0.2",
+     "react-dom ":  "17.0.2",
+     "реагировать-погрузчик-спиннер"  : "4.0.0",
+     "реагировать-скрипты"  : "4.0.3",
+     "веб-жизненныеэлементы"  :" 1,1,1" 
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+   "скрипты ":
+     "начать":  " реагировать-скриптыначинаются ",
+     "построить":  " реагировать-скриптыпостроить",
+     "тест"  : " реагировать-скриптытест",
+     "eject":  " реагировать-скриптыизвлечь" 
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
+   "eslintConfig":
+     "расширяется ":
+       "реагировать-приложение",
+      "реагировать-приложение / шутки"
     ]
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
+   "браузерныйсписок ":
+     "производство ":
+       ">0,2%",
+       "не умер",
+      "не op_mini всех"
     ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
+     "развитие ":
+       "последняя 1 хромированная версия",
+       "последняя версия Firefox",
+      "последняя версия 1 сафари"
     ]
   }
 }
